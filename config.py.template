@@ -6,7 +6,7 @@ DEBUG = True  # set to True to enable useful console output
 
 # use this single item list to test how a site responds to this crawler
 # be sure to comment out the list below it.
-#ROOT_URLS = ["https://ruby20011.github.io/"]
+ROOT_URLS = ["https://ruby20011.github.io/"]
 
 #ROOT_URLS = [
 #	"https://digg.com/",
